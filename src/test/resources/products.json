@@ -1,0 +1,23 @@
+{
+  "shop": "Vprok.ru",
+  "products": [
+    {
+      "id": "M001",
+      "name": "Молоко Простоквашино 3.2%",
+      "price": 89.90,
+      "inStock": true
+    },
+    {
+      "id": "B002",
+      "name": "Хлеб Бородинский",
+      "price": 45.50,
+      "inStock": true
+    },
+    {
+      "id": "V003",
+      "name": "Помидорки",
+      "price": 199.90,
+      "inStock": false
+    }
+  ]
+}
