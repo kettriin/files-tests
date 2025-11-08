@@ -13,7 +13,7 @@ import static java.lang.Double.parseDouble;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class FileTests {
-    private ClassLoader cl = FileTests.class.getClassLoader();
+    private final ClassLoader cl = FileTests.class.getClassLoader();
 
     @Test
     @DisplayName("pdf файл из архива содержит весёлый текст")
